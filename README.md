@@ -2,7 +2,7 @@
 
 Repositório destinado a pratica e atividades desenvolvidas em .Net desenvolvidas na Dio
 
-Bootcamp: .Net Fundamentals
+***Bootcamp*** .Net Fundamentals
 
 Link para se inscrever na [DIO](https://digitalinnovation.one/)
 ##
