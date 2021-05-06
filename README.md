@@ -1,5 +1,9 @@
 # Digital Innovation One - C#
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/71888055/117300953-7e07f700-ae50-11eb-8637-30714c1f9c0b.png">
+</p>
+
 Repositório destinado a pratica e atividades desenvolvidas em .Net desenvolvidas na Dio
 
 ***Bootcamp*** .Net Fundamentals
