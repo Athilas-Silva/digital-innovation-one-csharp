@@ -6,7 +6,7 @@
 
 Repositório destinado a pratica e atividades desenvolvidas em .Net desenvolvidas na Dio
 
-***Bootcamp*** .Net Fundamentals
+***Bootcamp*** [.Net Fundamentals](https://digitalinnovation.one/bootcamps/net-fundamentals?ref=dioed&utm_source=email&utm_medium=organic&utm_campaign=dfe-net-0402-ufpr-curitiba-ads-net)
 
 Link para se inscrever na [DIO](https://digitalinnovation.one/)
 
